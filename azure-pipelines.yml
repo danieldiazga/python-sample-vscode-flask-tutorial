@@ -2,7 +2,7 @@ trigger:
 - main
 
 pool:
-  vmImage: ubuntu-latest
+  vmImage: python-win64
 
 strategy:
   matrix:
